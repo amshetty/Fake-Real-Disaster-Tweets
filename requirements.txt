@@ -2,5 +2,4 @@ streamlit
 joblib
 pandas
 nltk
-re>=2.2
 string
