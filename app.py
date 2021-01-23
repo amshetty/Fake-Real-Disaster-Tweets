@@ -11,7 +11,7 @@ from nltk.tokenize import word_tokenize
 page_bg_img = '''
 <style>
 body {
-background-image: url("https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+background-image: url("https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1020");
 background-size: cover;
 }
 </style>
